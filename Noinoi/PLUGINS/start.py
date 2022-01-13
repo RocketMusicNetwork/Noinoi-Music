@@ -53,6 +53,8 @@ async def _human_time_duration(seconds):
 )
 async def start_(client: Client, message: Message):
     await message.reply_text(
+<p align="center"><a href="https://t.me/RJbr0"><img src="https://telegra.ph/file/04b4db655173934d90bda.jpg" width="300"></a></p>
+
         f"""✨ **ʜᴇʟʟᴏ ɪ ᴀᴍ {message.from_user.mention()} !**\n
 💭 [{BOT_NAME}](https://t.me/{BOT_USERNAME}) **ᴀʟʟᴏᴡꜱ ʏᴏᴜ ᴛᴏ ᴘʟᴀʏ ᴍᴜꜱɪᴄ ᴀɴᴅ ᴠɪᴅᴇᴏ ᴏɴ ɢʀᴏᴜᴘꜱ ᴛʜʀᴏᴜɢʜ ᴛʜᴇ ɴᴇᴡ ᴛᴇʟᴇɢʀᴀᴍ'ꜱ ᴠɪᴅᴇᴏ ᴄʜᴀᴛꜱ!**
 
