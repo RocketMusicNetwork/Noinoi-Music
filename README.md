@@ -1,7 +1,7 @@
-#      <p align="center">𝑵𝒐𝒊𝒏𝒐𝒊 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 -𝑪𝑭𝑪 𝑩𝒐𝒕𝒔  </a></p>
+#      <p align="center">𝑺𝒊𝒍𝒆𝒏𝒕𝑩𝑶𝒀 𝑴𝒖𝒔𝒊𝒄 𝑩𝒐𝒕 -𝑪𝑭𝑪 𝑩𝒐𝒕𝒔  </a></p>
 <p align="center">
 
-<p align="center"><a href="https://t.me/noinoi_bot"><img src="https://telegra.ph/file/842f2023edaf5b6f726d9.jpg"></a></p>
+<p align="center"><a href="https://t.me/noinoi_bot"><img src="https://telegra.ph/file/04b4db655173934d90bda.jpg"></a></p>
 <p align="center">
     
 
